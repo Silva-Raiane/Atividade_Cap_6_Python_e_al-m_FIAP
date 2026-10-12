@@ -8,8 +8,6 @@
 
 # FarmTech Solutions — Monitor de Perdas na Colheita de Cana-de-Açúcar
 
-## Nome do grupo
-
 ## Integrantes:
 - <a href="#">Raiane Sirlene da Silva — RM575984</a>
 - <a href="#">Rodrigo Textor de Textor — RM574243</a>
