@@ -11,7 +11,7 @@
 ## Integrantes:
 - <a href="#">Raiane Sirlene da Silva — RM575984</a>
 - <a href="#">Rodrigo Textor de Textor — RM574243</a>
-- <a href="#">Nome do integrante 3 — RM000000</a>
+- <a href="#">Pedro Victor Pires — RM575181</a>
 - <a href="#">Nome do integrante 4 — RM000000</a>
 - <a href="#">Nome do integrante 5 — RM000000</a>
 
