@@ -1,0 +1,22 @@
+{
+    "sistema": {
+        "nome": "FarmTech Solutions - Monitor de Perdas na Colheita de Cana",
+        "versao": "1.0.0"
+    },
+    "parametros_economicos": {
+        "preco_tonelada_cana_rs": 160.00
+    },
+    "limites_perda_percentual": {
+        "MANUAL":     { "aceitavel": 3.0, "atencao": 5.0 },
+        "MECANIZADA": { "aceitavel": 5.0, "atencao": 10.0 }
+    },
+    "boas_praticas_mecanizada": {
+        "velocidade_max_kmh": 6.0,
+        "altura_corte_max_cm": 5.0
+    },
+    "oracle": {
+        "dsn": "oracle.fiap.com.br:1521/ORCL",
+        "usuario_env": "FARMTECH_DB_USER",
+        "senha_env": "FARMTECH_DB_PASSWORD"
+    }
+}
